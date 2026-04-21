@@ -5,7 +5,7 @@ A beginner-friendly data analytics project that analyzes student academic perfor
 This project focuses on performance analysis, study habits, attendance impact, and data-driven visualization dashboards using Tableau.
 
 # Technologies Used
-• Python
+- Python
 • Pandas
 • NumPy
 • Matplotlib
