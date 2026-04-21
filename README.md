@@ -18,71 +18,71 @@ This project focuses on performance analysis, study habits, attendance impact, a
 
 # Project Features
   # 1. Data Extraction
-  • Imported student dataset from CSV file
-  • Dataset includes:
-    • Student Gender
-    • Study Hours per Day
-    • Attendance Percentage
-    • Math Score
-    • Science Score
-    • Parent Education
-    • Result (Pass/Fail)
+ - Imported student dataset from CSV file
+ - Dataset includes:
+   - Student Gender
+   - Study Hours per Day
+   - Attendance Percentage
+   - Math Score
+   - Science Score
+   - Parent Education
+   - Result (Pass/Fail)
   
   # 2. Data Cleaning & Preparation
-  • Handled missing values using mean (numerical) and mode (categorical)
-  • Removed duplicate records
-  • Ensured correct data types for all columns
-  • Standardized dataset for analysis
+ - Handled missing values using mean (numerical) and mode (categorical)
+ - Removed duplicate records
+ - Ensured correct data types for all columns
+ - Standardized dataset for analysis
   
   # 3. Feature Handling & Outlier Detection
-  • Applied IQR method to detect outliers in scores
-  • Identified extreme performance values
-  • Prepared clean dataset for accurate analysis
+ - Applied IQR method to detect outliers in scores
+ - Identified extreme performance values
+ - Prepared clean dataset for accurate analysis
   
   # 4. Statistical Analysis
-  • Performed descriptive statistics on scores
-  • Analyzed:
-    • Mean, Median, Min, Max
-    • Score distribution
-    • Compared performance across categories
+ - Performed descriptive statistics on scores
+ - Analyzed:
+   - Mean, Median, Min, Max
+   - Score distribution
+   - Compared performance across categories
   
   # 5. Business (Academic) Analytics
-  • Gender-wise Performance Analysis
-  • Result-wise Attendance Analysis
-  • Study Hours vs Score Relationship
-  • Identified factors affecting student performance
+ - Gender-wise Performance Analysis
+ - Result-wise Attendance Analysis
+ - Study Hours vs Score Relationship
+ - Identified factors affecting student performance
   
   # 6. Data Visualization (Matplotlib & Seaborn)
-  • Generated multiple plots including:
-    • Histogram (Score Distribution)
-    • Scatter Plot (Study Hours vs Score)
-    • Box Plot (Outlier Detection)
-    • Bar Charts (Category Comparison)
-    • Heatmap (Correlation Analysis)
-    • Violin & Count Plots
-    • Saved all visualizations into a structured folder (visualization/)
+ - Generated multiple plots including:
+   - Histogram (Score Distribution)
+   - Scatter Plot (Study Hours vs Score)
+   - Box Plot (Outlier Detection)
+   - Bar Charts (Category Comparison)
+   - Heatmap (Correlation Analysis)
+   - Violin & Count Plots
+   - Saved all visualizations into a structured folder (visualization/)
   
   # 7. Data Export for Visualization Tools
-  • Cleaned dataset exported to CSV format
-  • File used for dashboard creation in Tableau
+ - Cleaned dataset exported to CSV format
+ - File used for dashboard creation in Tableau
   
   # 8. Tableau Dashboard Integration
-  • Imported dataset into Tableau
-  • Created interactive dashboards including:
-    • Student Performance Overview
-    • Study Hours vs Score Analysis
-    • Gender-wise Comparison
-    • Attendance Impact Dashboard
-    • Distribution & Outlier Analysis
+ - Imported dataset into Tableau
+ - Created interactive dashboards including:
+   - Student Performance Overview
+   - Study Hours vs Score Analysis
+   - Gender-wise Comparison
+   - Attendance Impact Dashboard
+   - Distribution & Outlier Analysis
   
   # 9. Insight Generation
   
-  • The analysis provided insights such as:
-  • Students with higher study hours tend to score better
-  • Attendance has a strong impact on academic performance
-  • Performance varies across different categories (gender, parent education)
-  • Presence of outliers in student scores
-  • Strong correlation between study habits and results
+ - The analysis provided insights such as:
+ - Students with higher study hours tend to score better
+ - Attendance has a strong impact on academic performance
+ - Performance varies across different categories (gender, parent education)
+ - Presence of outliers in student scores
+ - Strong correlation between study habits and results
   
   These insights help understand student behavior and improve academic performance strategies.
 
