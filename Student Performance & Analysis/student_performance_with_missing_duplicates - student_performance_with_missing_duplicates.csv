@@ -1,0 +1,156 @@
+student_id,gender,age,math_score,science_score,english_score,attendance_percentage,study_hours_per_day,parent_education,internet_access,extracurricular_activity,result
+1,Male,19,35,,51,89,2.4,Postgraduate,No,Yes,Fail
+2,Female,19,53,88,79,53,7.8,Graduate,No,Yes,Pass
+3,Male,17,36,94,38,74,6,Graduate,No,No,Pass
+4,Male,19,87,42,70,52,2.4,Graduate,Yes,Yes,Fail
+5,Male,21,78,87,65,81,6.2,High School,No,No,Fail
+6,Female,18,66,94,53,52,4.7,,No,No,Pass
+7,Male,23,66,39,95,76,6,Postgraduate,Yes,No,Fail
+8,Male,18,89,40,88,78,6.4,High School,No,Yes,Fail
+9,Male,17,90,81,73,81,1.6,High School,No,Yes,Pass
+10,Female,20,51,89,53,99,4.5,High School,Yes,Yes,Pass
+11,Male,23,72,,73,68,7.5,Graduate,Yes,No,Fail
+12,Male,17,58,86,79,70,3.2,Graduate,Yes,Yes,Pass
+13,Male,24,45,50,47,54,5.2,Postgraduate,No,No,Pass
+14,Male,20,50,47,92,67,3.6,,No,No,Pass
+15,Female,18,93,64,54,77,,High School,No,Yes,Fail
+16,Male,17,37,53,95,91,4.8,Postgraduate,Yes,No,Fail
+17,Female,24,54,,73,71,4.8,High School,Yes,Yes,Pass
+18,Female,23,93,97,35,70,2.4,High School,No,Yes,Fail
+19,Female,23,70,53,37,55,5.8,Graduate,No,Yes,Pass
+20,Male,22,53,92,96,50,1.6,,Yes,Yes,Fail
+21,Female,24,53,89,97,54,2,Postgraduate,Yes,Yes,Pass
+22,Male,21,54,96,59,90,1,Postgraduate,Yes,No,Pass
+23,Female,19,86,57,90,61,1.8,Postgraduate,Yes,No,Fail
+24,Female,20,67,43,67,75,4.3,Graduate,No,No,Pass
+25,Female,24,74,46,72,95,5.2,Graduate,Yes,Yes,Fail
+26,Female,22,73,35,40,83,6.6,High School,No,Yes,Fail
+27,Female,19,35,92,92,98,1.7,High School,No,Yes,Pass
+28,Female,19,45,35,78,63,7,High School,No,No,Pass
+29,Female,17,91,,79,75,6.2,High School,Yes,Yes,Fail
+30,Female,19,84,82,66,94,3.9,Graduate,Yes,No,Pass
+31,Male,21,,35,79,76,7.5,Postgraduate,Yes,No,Pass
+32,Male,23,65,50,95,58,,,Yes,Yes,Pass
+33,Female,22,76,95,81,75,2.4,High School,No,Yes,Pass
+34,Female,19,41,98,55,96,3.7,Graduate,Yes,No,Pass
+35,Female,17,50,97,70,71,7.5,Postgraduate,Yes,Yes,Fail
+36,Male,21,94,56,53,96,6.1,Postgraduate,No,No,Fail
+37,Female,18,36,60,54,79,1.3,Graduate,Yes,Yes,Pass
+38,Male,23,35,50,91,92,6.5,Graduate,No,Yes,Pass
+39,Male,23,82,85,52,97,6.8,Graduate,No,No,Pass
+40,Male,22,,91,81,66,6.3,,No,Yes,Fail
+41,Male,23,71,63,83,75,6.6,Graduate,No,No,Pass
+42,Male,19,66,81,48,85,6.8,Graduate,No,Yes,Fail
+43,Female,17,43,96,49,50,2.3,Graduate,No,No,Fail
+44,Female,23,53,50,65,57,2.6,Postgraduate,No,No,Fail
+45,Female,23,82,82,35,98,5.4,Postgraduate,No,Yes,Pass
+46,Female,18,37,73,88,84,7.4,High School,Yes,No,Fail
+47,Female,18,54,,37,64,3.2,High School,Yes,Yes,Pass
+48,Male,20,58,,50,96,,Postgraduate,Yes,Yes,Fail
+49,Female,21,88,44,91,71,5.8,Postgraduate,Yes,Yes,Pass
+50,Female,19,67,68,46,63,4.2,Postgraduate,No,No,Fail
+51,Male,23,58,86,50,75,6,Graduate,Yes,No,Pass
+52,Female,24,70,,58,77,7.3,Graduate,No,Yes,Fail
+53,Male,23,72,53,62,72,5.4,Postgraduate,Yes,Yes,Pass
+54,Female,17,59,92,42,63,4.8,Graduate,Yes,No,Pass
+55,Male,20,52,35,70,73,4.1,Graduate,Yes,Yes,Pass
+56,Female,21,88,38,42,51,5,High School,No,Yes,Pass
+57,Female,24,69,50,92,94,3.5,,Yes,No,Fail
+58,Male,20,95,58,94,75,,,No,Yes,Fail
+59,Male,22,75,36,84,63,4.7,Graduate,No,No,Pass
+60,Male,21,67,66,62,56,,Postgraduate,Yes,Yes,Fail
+61,Male,23,67,58,75,52,2.6,High School,Yes,No,Pass
+62,Male,23,48,46,98,96,4.8,High School,Yes,Yes,Pass
+63,Male,21,55,84,61,72,4,High School,No,Yes,Fail
+64,Male,23,82,69,97,95,3.3,,Yes,No,Pass
+65,Male,19,54,67,51,92,6.1,Postgraduate,No,Yes,Pass
+66,Female,21,42,67,67,96,5.9,Postgraduate,No,No,Fail
+67,Female,20,41,95,63,94,2.2,Postgraduate,Yes,Yes,Pass
+68,Male,21,51,85,47,67,7.2,Postgraduate,Yes,No,Pass
+69,Female,24,67,77,80,87,4.5,High School,No,No,Pass
+70,Female,23,82,46,69,84,6.2,Graduate,No,No,Pass
+71,Female,19,,99,40,64,5,High School,No,No,Fail
+72,Female,19,56,67,81,74,8,Postgraduate,Yes,Yes,Fail
+73,Male,22,64,74,59,86,6.3,High School,No,Yes,Fail
+74,Female,20,72,77,44,77,5.9,Postgraduate,Yes,No,Pass
+75,Male,18,85,78,90,59,6.5,Postgraduate,No,No,Pass
+76,Female,18,88,63,64,88,2,High School,No,No,Fail
+77,Female,21,42,47,39,66,,Postgraduate,Yes,Yes,Pass
+78,Female,22,61,46,67,88,6,Graduate,No,Yes,Pass
+79,Male,17,61,80,99,71,4.5,Postgraduate,Yes,Yes,Pass
+80,Female,21,55,36,52,75,6.3,Graduate,Yes,Yes,Pass
+81,Male,22,64,69,83,93,1.7,Graduate,No,No,Fail
+82,Female,20,62,42,45,74,4.8,Postgraduate,Yes,No,Fail
+83,Male,20,98,60,60,66,3.7,High School,Yes,No,Fail
+84,Female,20,95,68,97,62,4.2,,No,Yes,Pass
+85,Male,20,82,41,93,69,5.2,High School,Yes,Yes,Fail
+86,Male,20,53,92,61,74,4.5,Graduate,Yes,Yes,Fail
+87,Female,22,38,63,83,53,4.8,Postgraduate,Yes,No,Pass
+88,Male,22,69,70,67,59,4.4,Postgraduate,No,No,Pass
+89,Female,19,98,55,35,52,3.9,Graduate,Yes,Yes,Fail
+90,Female,24,83,70,55,90,6.4,Postgraduate,No,No,Fail
+91,Female,18,51,44,89,94,1.1,Graduate,No,Yes,Fail
+92,Female,23,,58,40,67,5.2,Postgraduate,Yes,Yes,Fail
+93,Female,20,64,98,39,96,5,High School,Yes,No,Pass
+94,Female,17,80,,37,85,6,Postgraduate,Yes,Yes,Fail
+95,Female,23,40,70,87,96,,High School,No,No,Fail
+96,Female,22,71,,57,71,,Postgraduate,Yes,Yes,Pass
+97,Female,17,58,57,87,83,7.7,High School,Yes,No,Fail
+98,Female,17,80,96,71,96,3.4,Postgraduate,Yes,No,Pass
+99,Female,17,87,71,51,57,2.6,High School,Yes,No,Pass
+100,Male,19,94,46,35,89,4,Graduate,Yes,Yes,Pass
+101,Male,22,97,89,85,98,3,Graduate,No,Yes,Fail
+102,Female,17,66,47,79,93,5.3,High School,No,No,Fail
+103,Female,20,,57,38,68,7.4,Postgraduate,Yes,No,Pass
+104,Female,21,52,64,96,91,2,High School,Yes,Yes,Fail
+105,Female,17,59,51,99,90,1.7,Postgraduate,Yes,Yes,Fail
+106,Female,19,88,96,66,86,2.8,Graduate,Yes,Yes,Pass
+107,Female,23,92,47,68,55,6.1,Postgraduate,No,No,Pass
+108,Female,22,80,93,73,75,5.2,Graduate,Yes,Yes,Fail
+109,Female,24,58,53,60,83,1.7,Postgraduate,No,Yes,Pass
+110,Male,19,66,83,68,94,7.4,Postgraduate,No,No,Fail
+111,Female,17,81,46,88,55,6.5,Postgraduate,Yes,Yes,Fail
+112,Male,22,57,95,37,86,1.2,High School,No,Yes,Fail
+113,Female,21,61,53,84,82,5.6,High School,No,Yes,Fail
+114,Female,17,36,43,46,71,6.4,Graduate,No,No,Pass
+115,Male,19,51,62,99,70,3.6,Graduate,No,No,Pass
+116,Female,18,67,86,88,55,1.5,High School,Yes,No,Pass
+117,Male,20,43,50,39,55,1.5,Graduate,Yes,No,Pass
+118,Female,24,77,46,91,97,1.7,High School,No,No,Fail
+119,Female,23,82,59,51,53,,Postgraduate,Yes,No,Fail
+120,Male,19,73,86,81,79,7.4,Graduate,Yes,No,Pass
+121,Female,22,76,87,57,60,1.9,Graduate,Yes,Yes,Fail
+122,Male,24,,57,48,79,2.7,High School,Yes,Yes,Fail
+123,Female,24,84,50,85,80,2.2,Graduate,Yes,No,Fail
+124,Male,24,,91,72,73,2.3,Graduate,No,Yes,Pass
+125,Male,17,58,73,98,58,6.9,Postgraduate,Yes,Yes,Pass
+126,Female,20,47,,72,52,,Graduate,Yes,No,Pass
+127,Female,17,94,76,84,80,3.2,Postgraduate,Yes,Yes,Fail
+128,Male,22,41,92,64,89,2.6,High School,Yes,Yes,Pass
+129,Female,17,,73,85,86,5.3,Graduate,No,Yes,Pass
+130,Female,18,70,48,97,85,3.7,Postgraduate,No,Yes,Pass
+131,Female,20,79,39,86,73,6.2,High School,No,Yes,Pass
+132,Male,20,54,69,72,80,2.4,Graduate,No,No,Pass
+133,Male,22,,52,64,55,6.5,High School,Yes,No,Pass
+134,Male,23,42,43,85,51,5.2,Graduate,No,No,Fail
+135,Male,18,50,92,39,69,1.8,High School,Yes,Yes,Fail
+136,Male,19,48,51,63,77,3.9,,Yes,No,Pass
+137,Male,17,49,41,38,60,7,Postgraduate,Yes,Yes,Pass
+138,Male,21,66,80,44,53,7.5,High School,Yes,Yes,Fail
+139,Male,17,97,47,90,64,4.3,Graduate,Yes,Yes,Fail
+140,Male,24,85,74,51,55,4.4,Graduate,No,Yes,Pass
+141,Female,17,59,76,51,98,7.4,Postgraduate,No,No,Pass
+142,Male,19,92,43,68,79,5.1,Graduate,No,No,Pass
+143,Female,17,97,84,40,87,1.2,Graduate,No,Yes,Pass
+144,Female,18,96,61,87,51,7.4,Graduate,Yes,No,Fail
+145,Female,18,,39,77,64,2.7,High School,No,Yes,Pass
+146,Male,20,92,63,57,60,5,High School,Yes,No,Pass
+147,Male,22,92,71,89,57,2.2,Graduate,No,No,Pass
+148,Male,23,83,72,50,75,1.2,Postgraduate,Yes,Yes,Pass
+149,Male,21,86,42,42,94,3.2,High School,Yes,No,Fail
+150,Female,24,76,99,38,93,6.5,Postgraduate,No,Yes,Fail
+1,Male,19,35,,51,89,2.4,Postgraduate,No,Yes,Fail
+2,Female,19,53,88,79,53,7.8,Graduate,No,Yes,Pass
+3,Male,17,36,94,38,74,6,Graduate,No,No,Pass
+4,Male,19,87,42,70,52,2.4,Graduate,Yes,Yes,Fail
+5,Male,21,78,87,65,81,6.2,High School,No,No,Fail
