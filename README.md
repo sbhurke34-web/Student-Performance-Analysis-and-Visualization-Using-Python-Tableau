@@ -6,12 +6,12 @@ This project focuses on performance analysis, study habits, attendance impact, a
 
 # Technologies Used
 - Python
-• Pandas
-• NumPy
-• Matplotlib
-• Seaborn
-• Tableau
-• CSV Dataset
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Tableau
+- CSV Dataset
 
 # Flow of Project 
 → Feature Handling → Statistical Analysis & Aggregations → Data Visualization (Matplotlib & Seaborn) → Data Export (CSV) → Tableau Dashboard Creation → Student Performance Insight Reporting
